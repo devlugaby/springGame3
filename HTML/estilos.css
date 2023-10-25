@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color:white;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 100%;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1{
+    color:aquamarine;
+}
+
+h2{
+    color:aquamarine;
+}
+
+h3{
+    color:aquamarine;
+}
+
+button{
+background-color:aquamarine;
+border-radius: 50px;
+font-family:'Courier New', Courier, monospace;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+color: black;
+padding: 10px 25px 10px 25px;
+}
+
+input{
+    background-color: black;
+    color: white;
+}
